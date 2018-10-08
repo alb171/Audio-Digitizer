@@ -1,0 +1,80 @@
+# Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, the Altera Quartus II License Agreement,
+# the Altera MegaCore Function License Agreement, or other 
+# applicable license agreement, including, without limitation, 
+# that your use is for the sole purpose of programming logic 
+# devices manufactured by Altera and sold by Altera or its 
+# authorized distributors.  Please refer to the applicable 
+# agreement for further details.
+
+# Quartus II 64-Bit Version 15.0.2 Build 153 07/15/2015 SJ Web Edition
+# File: C:\Projects\EECS301\Instructor-Notes\Lab-Notes\Lab_07\Lab7-Project-Solution-Generator\EECS301_Lab7_Project_Pins.csv
+# Generated on: Tue Apr 11 12:27:58 2017
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair,Strict Preservation,VREF Group,Slew Rate,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage
+AUD_ADCDAT,Input,PIN_K7,8A,PIN_K7,3.3-V LVTTL,,8mA,,,B8A_N0,,,,,,,,,
+AUD_ADCLRCK,Output,PIN_K8,8A,PIN_K8,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+AUD_BCLK,Output,PIN_H7,8A,PIN_H7,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+AUD_DACDAT,Output,PIN_J7,8A,PIN_J7,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+AUD_DACLRCK,Output,PIN_H8,8A,PIN_H8,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+AUD_XCK,Output,PIN_G7,8A,PIN_G7,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+CLOCK_50,Input,PIN_AF14,3B,PIN_AF14,3.3-V LVTTL,,8mA,,,B3B_N0,,,,,,,,,
+FPGA_I2C_SCLK,Output,PIN_J12,8A,PIN_J12,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+FPGA_I2C_SDAT,Bidir,PIN_K12,8A,PIN_K12,3.3-V LVTTL,,8mA,,,B8A_N0,1,,,,,,,,
+KEY[0],Input,PIN_AA14,3B,PIN_AA14,3.3-V LVTTL,,8mA,,,B3B_N0,,,,,,,,,
+LCD_B0,Output,PIN_AJ25,4A,PIN_AJ25,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B1,Output,PIN_AJ24,4A,PIN_AJ24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B2,Output,PIN_AK24,4A,PIN_AK24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B3,Output,PIN_AG23,4A,PIN_AG23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B4,Output,PIN_AK23,4A,PIN_AK23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B5,Output,PIN_AH23,4A,PIN_AH23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B6,Output,PIN_AK22,4A,PIN_AK22,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_B7,Output,PIN_AJ22,4A,PIN_AJ22,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_CK,Output,PIN_AH22,4A,PIN_AH22,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_DISP,Output,PIN_AG22,4A,PIN_AG22,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G0,Output,PIN_AG26,4A,PIN_AG26,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G1,Output,PIN_AH24,4A,PIN_AH24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G2,Output,PIN_AH27,4A,PIN_AH27,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G3,Output,PIN_AJ27,4A,PIN_AJ27,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G4,Output,PIN_AK29,4A,PIN_AK29,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G5,Output,PIN_AK28,4A,PIN_AK28,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G6,Output,PIN_AJ26,4A,PIN_AJ26,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_G7,Output,PIN_AH25,4A,PIN_AH25,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_HSYNC,Output,PIN_AF24,4A,PIN_AF24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R0,Output,PIN_AA21,4A,PIN_AA21,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R1,Output,PIN_AC23,4A,PIN_AC23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R2,Output,PIN_AD24,4A,PIN_AD24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R3,Output,PIN_AE23,4A,PIN_AE23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R4,Output,PIN_AE24,4A,PIN_AE24,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R5,Output,PIN_AF25,4A,PIN_AF25,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R6,Output,PIN_AF26,4A,PIN_AF26,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_R7,Output,PIN_AG25,4A,PIN_AG25,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LCD_VSYNC,Output,PIN_AF23,4A,PIN_AF23,3.3-V LVTTL,,8mA,,,B4A_N0,1,,,,,,,,
+LEDR[9],Output,PIN_Y21,5A,PIN_Y21,3.3-V LVTTL,,16mA,,,B5A_N0,1,,,,,,,,
+LEDR[8],Output,PIN_W21,5A,PIN_W21,3.3-V LVTTL,,16mA,,,B5A_N0,1,,,,,,,,
+LEDR[7],Output,PIN_W20,5A,PIN_W20,3.3-V LVTTL,,16mA,,,B5A_N0,1,,,,,,,,
+LEDR[6],Output,PIN_Y19,4A,PIN_Y19,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[5],Output,PIN_W19,4A,PIN_W19,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[4],Output,PIN_W17,4A,PIN_W17,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[3],Output,PIN_V18,4A,PIN_V18,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[2],Output,PIN_V17,4A,PIN_V17,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[1],Output,PIN_W16,4A,PIN_W16,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+LEDR[0],Output,PIN_V16,4A,PIN_V16,3.3-V LVTTL,,16mA,,,B4A_N0,1,,,,,,,,
+SW[9],Input,PIN_AE12,3A,PIN_AE12,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[8],Input,PIN_AD10,3A,PIN_AD10,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[7],Input,PIN_AC9,3A,PIN_AC9,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[6],Input,PIN_AE11,3A,PIN_AE11,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[5],Input,PIN_AD12,3A,PIN_AD12,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[4],Input,PIN_AD11,3A,PIN_AD11,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[3],Input,PIN_AF10,3A,PIN_AF10,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[2],Input,PIN_AF9,3A,PIN_AF9,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[1],Input,PIN_AC12,3A,PIN_AC12,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,
+SW[0],Input,PIN_AB12,3A,PIN_AB12,3.3-V LVTTL,,8mA,,,B3A_N0,,,,,,,,,

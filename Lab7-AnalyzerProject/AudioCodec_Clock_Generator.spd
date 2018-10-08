@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="AudioCodec_Clock_Generator_sim/AudioCodec_Clock_Generator.vo"
+   type="VERILOG" />
+ <topLevel name="AudioCodec_Clock_Generator" />
+ <deviceFamily name="cyclonev" />
+</simPackage>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="LCD_Clock_Generator_sim/LCD_Clock_Generator.vo" type="VERILOG" />
+ <topLevel name="LCD_Clock_Generator" />
+ <deviceFamily name="cyclonev" />
+</simPackage>

@@ -1,0 +1,26 @@
+# system info Audio_Stream_Digitizer_FFT on 2017.04.17.16:58:55
+system_info:
+name,value
+DEVICE,5CSEMA5F31C6
+DEVICE_FAMILY,Cyclone V
+GENERATION_ID,1492462706
+#
+#
+# Files generated for Audio_Stream_Digitizer_FFT on 2017.04.17.16:58:55
+files:
+filepath,kind,attributes,module,is_top
+simulation/Audio_Stream_Digitizer_FFT.v,VERILOG,,Audio_Stream_Digitizer_FFT,true
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twr2.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twi3.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twr3.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twi4.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twi1.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twr4.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twi2.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0_opt_twr1.hex,HEX,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+simulation/submodules/Audio_Stream_Digitizer_FFT_fft_ii_0.vo,VERILOG,,Audio_Stream_Digitizer_FFT_fft_ii_0,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+Audio_Stream_Digitizer_FFT.fft_ii_0,Audio_Stream_Digitizer_FFT_fft_ii_0
